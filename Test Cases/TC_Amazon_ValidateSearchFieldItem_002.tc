@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A test case to verify the relevance of the results for a particular set of inputs.</description>
+   <name>TC_Amazon_ValidateSearchFieldItem_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2543d1b-98f5-4a74-b905-542f9c87357c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f749af2d-b8ad-4060-b098-da3ced713839</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Search_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f749af2d-b8ad-4060-b098-da3ced713839</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>category</value>
+      <variableId>f8c0a2bd-1d8e-4822-a707-f826191e1bd5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f749af2d-b8ad-4060-b098-da3ced713839</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>query</value>
+      <variableId>c7da3e38-36f7-435c-9282-2856bb54c10b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Electronics'</defaultValue>
+      <description></description>
+      <id>f8c0a2bd-1d8e-4822-a707-f826191e1bd5</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mobile phones'</defaultValue>
+      <description></description>
+      <id>c7da3e38-36f7-435c-9282-2856bb54c10b</id>
+      <masked>false</masked>
+      <name>query</name>
+   </variable>
+</TestCaseEntity>

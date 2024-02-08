@@ -23,11 +23,6 @@ WebUI.navigateToUrl('https://amazon.com')
 
 WebUI.maximizeWindow()
 
-if (WebUI.verifyElementPresent(findTestObject('Object Repository/AmazonPages/Amazon_Login/Page_Amazon.com/a_Try different image'), 
-    0, FailureHandling.OPTIONAL)) {
-    WebUI.click(findTestObject('Object Repository/AmazonPages/Amazon_Login/Page_Amazon.com/a_Try different image'))
-}
-
 WebUI.click(findTestObject('AmazonPages/Amazon_Login/Page_Amazon.com. Spend less. Smile more/a_Hello, sign in  Account  Lists'))
 
 WebUI.setText(findTestObject('Object Repository/AmazonPages/Amazon_Login/Page_Amazon Sign-In/input_email'), 'cuojimmy0@gmail.com')

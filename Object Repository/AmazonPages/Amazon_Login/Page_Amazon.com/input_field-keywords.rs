@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='captchacharacters']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>974817bc-09cb-46a5-9310-465724d05188</webElementGuid>
+      <webElementGuid>29fa01af-7306-44ed-96ee-73537fb8b8e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>ef5bae93-49df-456d-8240-72b7daadf47f</webElementGuid>
+      <webElementGuid>7c6dd701-38b8-4cf9-bba1-35689cd7148b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>51cbd6a3-103b-4e24-a24c-099be678ec7c</webElementGuid>
+      <webElementGuid>1d7b3a4e-ef72-448e-8831-dfcd5b0d1d30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Type characters</value>
-      <webElementGuid>c1eb4b57-f2fa-4874-afab-c37c283bc640</webElementGuid>
+      <webElementGuid>6f46dd61-3b35-42d1-ae47-5b46131a2566</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>captchacharacters</value>
-      <webElementGuid>186cef7b-fcaf-4b45-9e2b-7d8fabcc9899</webElementGuid>
+      <webElementGuid>715c1e68-3a09-4d63-812a-cdefe81f5dac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>field-keywords</value>
-      <webElementGuid>e0a2b77f-6fbb-4d42-be32-9758855826f7</webElementGuid>
+      <webElementGuid>37c87daa-011c-4463-a800-d3e62bc646a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-span12</value>
-      <webElementGuid>956e6a30-fb02-4068-88d8-216aef05588e</webElementGuid>
+      <webElementGuid>faf59432-f8a4-41e8-99b2-dd8a5b97bab0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8c9c6d2c-dffa-4e18-9fa9-daac979a2556</webElementGuid>
+      <webElementGuid>4173d4e3-ff1a-43c0-9aaf-03221c119f8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>627e4897-c9ce-44ad-822f-c9c4523bd202</webElementGuid>
+      <webElementGuid>3321bb51-9067-4835-9b1c-a4d749501d15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>073fe5e3-5b35-4fc7-bd46-c186e5ed5bf7</webElementGuid>
+      <webElementGuid>60eb3e9f-cb4f-4ca3-b4df-0565e533c573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;captchacharacters&quot;)</value>
-      <webElementGuid>f0d01651-ea79-42bb-9dd1-4deef7f2a675</webElementGuid>
+      <webElementGuid>4a579b91-12de-483a-85d7-f82170a25603</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='captchacharacters']</value>
-      <webElementGuid>0b8b911a-578d-4418-bb27-a6dcf409923a</webElementGuid>
+      <webElementGuid>c1c5fcf6-7142-4b72-a23c-c28776b0ce10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>804a0da6-b595-41f7-a009-28f7f0663040</webElementGuid>
+      <webElementGuid>2e837b4c-ba8b-42b1-8437-32c744516e8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Type characters' and @id = 'captchacharacters' and @name = 'field-keywords' and @type = 'text']</value>
-      <webElementGuid>b47d0861-7484-4396-a908-415581cddc1f</webElementGuid>
+      <webElementGuid>334ee947-bfd8-4f3e-8fad-edbe74a0c2bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
